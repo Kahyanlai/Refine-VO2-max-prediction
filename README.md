@@ -8,9 +8,6 @@ This project aims to predict VO₂ Max from wearable-derived activity data (runn
 - [Dataset](#dataset)
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
-- [Results](#results)
-- [Installation & Usage](#installation--usage)
-- [Contributors](#contributors)
 
 ## Dataset
 
@@ -39,5 +36,6 @@ Multiple regression models were trained:
 - Gradient Boosting
 
 The final model was selected based on R², RMSE, and interpretability.
+
 
 
