@@ -30,10 +30,10 @@ We also removed highly correlated or redundant features using correlation matrix
 ## Modeling
 
 Multiple regression models were trained:
-- Linear Regression (Best: R² = 0.943)
+- Linear Regression 
 - SVR
 - Random Forest
-- Gradient Boosting
+- Gradient Boosting (Best: R² = 0.9)
 
 The final model was selected based on R², RMSE, and interpretability.
 
